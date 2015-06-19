@@ -130,7 +130,7 @@ module Phantomjs
         end
 
         def package_url
-          'https://s3.eu-central-1.amazonaws.com/dp-phantomjs/macos/phantomjs_2_macos.zip'
+          'https://s3.eu-central-1.amazonaws.com/dp-phantomjs/macos/phantomjs-2.0.0-macosx.zip'
         end
       end
     end
