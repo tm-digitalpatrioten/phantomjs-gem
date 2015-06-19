@@ -98,7 +98,7 @@ module Phantomjs
         end
 
         def package_url
-          'https://s3.eu-central-1.amazonaws.com/dp-phantomjs/linux_64/phantomjs_2_linux_64.zip'
+          'https://s3.eu-central-1.amazonaws.com/dp-phantomjs/linux_64/phantomjs-2.0.0-linux-x86_64.zip'
         end
       end
     end
